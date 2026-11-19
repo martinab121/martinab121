@@ -20,5 +20,5 @@ to understand what I'm testing.
 | ------- | ---------- |
 | [skillo-playwright](https://github.com/martinab121/skillo-playwright) | E2E UI tests with Playwright & TypeScript, Page Object Model, runs in GitHub Actions |
 | [Selenium](https://github.com/martinab121/Selenium) | UI tests with Selenium WebDriver, C# and NUnit on demoqa.com |
-| [fullstack-capstone-project](https://github.com/martinab121/fullstack-capstone-project) | GiftLink – MERN app with a sentiment-analysis service (IBM capstone) |
-| [expressBookReviews](https://github.com/martinab121/expressBookReviews) | Book review REST API with Node.js, Express and JWT auth |
+| [fullstack-capstone-project](https://github.com/martinab121/fullstack-capstone-project) | GiftLink – MERN app for giving away household items, with JWT auth and search (IBM capstone) |
+| [expressBookReviews](https://github.com/martinab121/expressBookReviews) | Book shop REST API with Node.js, Express and JWT login |
